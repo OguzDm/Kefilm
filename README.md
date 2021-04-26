@@ -3,6 +3,10 @@
 
 Kefilm is a Movie App made with SwiftUI and TMDB
 
+To run the app you need to get your own API key from https://www.themoviedb.org/ and you need change the line
+
+let apiKey = " " in the MovieStore.swift
+
 https://user-images.githubusercontent.com/33404285/116061187-3e405300-a68b-11eb-9137-bfc8bb4adeef.mov
 
            
